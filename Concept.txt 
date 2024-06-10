@@ -1,0 +1,15 @@
+Lesson 5.3: Base Case and Recursive Case in Recursion
+
+Concept Overview:
+In Lesson 5.2, we discussed recursive function calls and the call stack. In this lesson, we'll explore two critical 
+aspects of recursion: the base case and the recursive case. These are fundamental elements of recursive algorithms that 
+determine when the recursion should stop and what action to take in each step.
+
+Key Terminology:
+Base case
+Recursive case
+Termination condition
+Recursive algorithm
+References:
+Recursive algorithms
+Recursion in C++
